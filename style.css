@@ -1,0 +1,27 @@
+nav .nav-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.logo{
+    font-weight: bold;
+    color: purple;
+    font-size: 200%;
+}
+.infobox{
+
+    margin: 20px;
+    width: 200px;
+    height: 0px;
+    justify-content: space-evenly;
+    
+}
+.profile-section{
+    display: flex;
+    align-items: center;
+    gap: 5%;
+}
+
+
